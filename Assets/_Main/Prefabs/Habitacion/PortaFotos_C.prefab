@@ -48,7 +48,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: 7feae88a-c203-45c0-a0ed-8667902239bc
+  instanceId: 567c01f8-96bb-4ce7-9813-47bb97dd9723
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
@@ -186,7 +186,7 @@ GameObject:
   - component: {fileID: 9164404302560198157}
   - component: {fileID: 1668662208570395645}
   - component: {fileID: 349570936790524778}
-  - component: {fileID: 7094842027010471019}
+  - component: {fileID: 9114330707232677981}
   m_Layer: 0
   m_Name: PortaFotos_C
   m_TagString: Untagged
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: 7358e191-33b7-43ca-b066-b2f00531ac66
-  instanceId: 235fbb38-2f24-4e95-a0e8-515574d824ee
+  instanceId: 21b58388-8df3-4146-822e-9d4d5af8d37c
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: 
@@ -330,8 +330,8 @@ MonoBehaviour:
   _rigidbody: {fileID: 1668662208570395645}
   _kinematicWhileSelected: 1
   _throwWhenUnselected: 1
---- !u!64 &7094842027010471019
-MeshCollider:
+--- !u!65 &9114330707232677981
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -348,7 +348,6 @@ MeshCollider:
   m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300002, guid: 50e267d43f3228a4fab0a3cb8c59455c, type: 3}
+  serializedVersion: 3
+  m_Size: {x: 0.21292457, y: 0.26472014, z: 0.012255719}
+  m_Center: {x: 0.000000037252903, y: 0, z: 0.0060816873}

@@ -13750,7 +13750,7 @@ Transform:
   - {fileID: 2040099199}
   - {fileID: 3860936988017273535}
   - {fileID: 8234731605989208416}
-  - {fileID: 1086065075}
+  - {fileID: 8639883452912683406}
   - {fileID: 7637734027297526775}
   - {fileID: 2392537264972867798}
   - {fileID: 881012033651345522}
@@ -19392,92 +19392,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 501421967}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &1086065075
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1086065077}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0.6859939, y: 0.17150043, z: 0.17150043, w: 0.6859939}
-  m_LocalPosition: {x: 5.2834234, y: 0.4538, z: 0.59276175}
-  m_LocalScale: {x: 0.438994, y: 0.4389944, z: 0.43899456}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 721211567}
-  m_LocalEulerAnglesHint: {x: -90.00001, y: 0, z: 28.073002}
---- !u!23 &1086065076
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1086065077}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_SmallMeshCulling: 1
-  m_RenderingLayerMask: 4294967295
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: 776517be60d8d954c8b2c012f596d21a, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1.5
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!1 &1086065077
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1086065075}
-  - component: {fileID: 1086065078}
-  - component: {fileID: 1086065076}
-  m_Layer: 0
-  m_Name: CoffeeMachine
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
-  m_IsActive: 1
---- !u!33 &1086065078
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1086065077}
-  m_Mesh: {fileID: 4300000, guid: d2e7e05530c088141a07d766912532d4, type: 3}
 --- !u!1 &1086881698
 GameObject:
   m_ObjectHideFlags: 0
@@ -58687,6 +58601,63 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
+--- !u!1001 &504992090535027727
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 721211567}
+    m_Modifications:
+    - target: {fileID: 2459533840281441320, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.2834234
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459533840281441320, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.45379996
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459533840281441320, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.59276175
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459533840281441320, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6859939
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459533840281441320, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.6859939
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459533840281441320, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.17150043
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459533840281441320, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.17150043
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459533840281441320, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459533840281441320, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459533840281441320, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6472358417079640800, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_Name
+      value: CafeMaquina
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 912899725f029e44faac9cdc6257da86, type: 3}
 --- !u!4 &543450652240269365
 Transform:
   m_ObjectHideFlags: 0
@@ -65846,6 +65817,11 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!4 &8639883452912683406 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2459533840281441320, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+  m_PrefabInstance: {fileID: 504992090535027727}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &8721392986453206884
 GameObject:
   m_ObjectHideFlags: 0

@@ -51,7 +51,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: 7358e191-33b7-43ca-b066-b2f00531ac66
-  instanceId: 54b167c6-ef81-43f0-bbc6-24cd12d36921
+  instanceId: 8807416c-55ed-4edd-b92e-cc65d8efb078
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: 
@@ -173,11 +173,11 @@ MeshCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 5
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300002, guid: 50e267d43f3228a4fab0a3cb8c59455c, type: 3}
 --- !u!1 &7927173930462536232
@@ -281,7 +281,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: 6af84864-21fa-49fc-ba38-f839a9b64489
+  instanceId: b3f99cd7-651c-48ff-aa4d-01b975a7fe58
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8

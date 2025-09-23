@@ -47,7 +47,7 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -101,7 +101,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: 404f7869-cce1-4e03-ab50-317b5b6cb45c
+  instanceId: 07c9c99c-d118-4472-a2d8-4329fac29b08
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: 7358e191-33b7-43ca-b066-b2f00531ac66
-  instanceId: 9296aa2d-2b4e-4e3e-abfa-a931a8fa6679
+  instanceId: ff29c719-6a72-4924-bde9-bdb482caee1c
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: 
@@ -349,6 +349,6 @@ MeshCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 5
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300002, guid: 50e267d43f3228a4fab0a3cb8c59455c, type: 3}

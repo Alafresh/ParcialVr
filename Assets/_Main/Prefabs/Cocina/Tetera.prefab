@@ -47,7 +47,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: 4e14e0ba-51f2-4a5c-a822-e304bf36d48c
-  instanceId: 77d00faf-d7ec-4032-8648-9762329d0d5b
+  instanceId: 41109cba-49ef-4fc4-8a1e-02e2debd9384
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: fb25cac7-8f37-455d-ac01-3fa41a1be37d
@@ -74,7 +74,6 @@ MonoBehaviour:
   _boundsCollider: {fileID: 6522086821255663585}
   _colliders:
   - {fileID: 85096626961073630}
-  - {fileID: 6522086821255663585}
 --- !u!1 &1645778895363704025
 GameObject:
   m_ObjectHideFlags: 0
@@ -211,7 +210,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: 7358e191-33b7-43ca-b066-b2f00531ac66
-  instanceId: ba86c7be-acaa-48d2-89e4-8d1ea8e25df5
+  instanceId: 23786842-f578-41a2-bf1d-3f9c5d359dfd
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: 

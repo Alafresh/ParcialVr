@@ -47,14 +47,14 @@ CapsuleCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 1.2723473
-  m_Height: 1.6667447
+  m_Radius: 2.0608287
+  m_Height: 2.1456788
   m_Direction: 1
-  m_Center: {x: -0.021840766, y: -0.16662502, z: 0.009602037}
+  m_Center: {x: 0.058753382, y: 0.044111967, z: 0.09803082}
 --- !u!1 &1433652962554451379
 GameObject:
   m_ObjectHideFlags: 0
@@ -103,7 +103,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: ee66eeba-4619-4555-a766-d3c6e66c9979
+  instanceId: c33bd726-77e1-4562-a738-c19178676f86
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
@@ -188,7 +188,6 @@ GameObject:
   - component: {fileID: 2201275458043694129}
   - component: {fileID: 2938698182126993409}
   - component: {fileID: 5633764262684163499}
-  - component: {fileID: 104536361286258659}
   m_Layer: 0
   m_Name: CajaBasura
   m_TagString: Untagged
@@ -225,7 +224,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: 7358e191-33b7-43ca-b066-b2f00531ac66
-  instanceId: 34938f2a-5e30-4683-8cc9-0f08a3bf8254
+  instanceId: 09dd4bb2-1bbd-494e-abd8-99c3db53a1d6
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: 
@@ -332,25 +331,3 @@ MonoBehaviour:
   _rigidbody: {fileID: 2938698182126993409}
   _kinematicWhileSelected: 1
   _throwWhenUnselected: 1
---- !u!64 &104536361286258659
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2371976797528195171}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 1
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300002, guid: 50e267d43f3228a4fab0a3cb8c59455c, type: 3}

@@ -52,7 +52,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: 7358e191-33b7-43ca-b066-b2f00531ac66
-  instanceId: b7d87192-f065-4746-aebd-ad87dac7bade
+  instanceId: 21117fa2-fb0e-4f2a-9221-3b1c2e4c4dc8
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: 
@@ -125,12 +125,12 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.020339953, y: 0.090009406, z: 0.00973129}
-  m_Center: {x: -0.015330117, y: 0.033605766, z: 0.0030686124}
+  m_Size: {x: 0.016417352, y: 0.07911194, z: 0.009922979}
+  m_Center: {x: 0.014215367, y: 0.03656361, z: 0.0024139513}
 --- !u!54 &117189642119104546
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -227,7 +227,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: 4e14e0ba-51f2-4a5c-a822-e304bf36d48c
-  instanceId: 8928e5bc-c0eb-4c5a-ad9e-dbeac4c70c15
+  instanceId: 2547af28-af50-42e6-9497-89e5e20ca077
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: fb25cac7-8f37-455d-ac01-3fa41a1be37d
@@ -254,7 +254,6 @@ MonoBehaviour:
   _boundsCollider: {fileID: 2803465159229312520}
   _colliders:
   - {fileID: 1034469467100294695}
-  - {fileID: 2803465159229312520}
 --- !u!1 &5510778438701130537
 GameObject:
   m_ObjectHideFlags: 0
@@ -337,5 +336,5 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.03, y: 0.1, z: 0.02}
-  m_Center: {x: -0.015136999, y: 0.033605766, z: 0.0030684932}
+  m_Size: {x: 0.011941317, y: 0.1, z: 0.0059889806}
+  m_Center: {x: 0.014130485, y: 0.03360577, z: 0.0016673902}

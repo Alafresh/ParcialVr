@@ -344,15 +344,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 124f4583f657475469a45ab6fca8f921, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _pivotTransform: {fileID: 1274168570151119995}
+  _pivotTransform: {fileID: 0}
   _rotationAxis: 1
   _constraints:
     MinAngle:
       Constrain: 1
-      Value: 0
+      Value: -80
     MaxAngle:
       Constrain: 1
-      Value: 80
+      Value: 0
 --- !u!1 &5890008329046911624
 GameObject:
   m_ObjectHideFlags: 0

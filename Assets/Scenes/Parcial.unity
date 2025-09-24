@@ -58638,9 +58638,37 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2933347872903835976, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_Size.x
+      value: 0.40551487
+      objectReference: {fileID: 0}
+    - target: {fileID: 2933347872903835976, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_Center.x
+      value: -0.08601748
+      objectReference: {fileID: 0}
+    - target: {fileID: 2933347872903835976, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_Center.y
+      value: -0.002854202
+      objectReference: {fileID: 0}
     - target: {fileID: 6472358417079640800, guid: 912899725f029e44faac9cdc6257da86, type: 3}
       propertyPath: m_Name
       value: CafeMaquina
+      objectReference: {fileID: 0}
+    - target: {fileID: 7707759759873263435, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_Size.y
+      value: 0.5258626
+      objectReference: {fileID: 0}
+    - target: {fileID: 7707759759873263435, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_Size.z
+      value: 0.7191803
+      objectReference: {fileID: 0}
+    - target: {fileID: 7707759759873263435, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_Center.y
+      value: -0.009973423
+      objectReference: {fileID: 0}
+    - target: {fileID: 7707759759873263435, guid: 912899725f029e44faac9cdc6257da86, type: 3}
+      propertyPath: m_Center.z
+      value: 0.31866807
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

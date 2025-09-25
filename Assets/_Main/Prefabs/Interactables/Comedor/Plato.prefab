@@ -70,9 +70,9 @@ MonoBehaviour:
   _maxSelectingInteractors: -1
   _data: {fileID: 0}
   _pointableElement: {fileID: 158634412863866988}
-  _boundsCollider: {fileID: 4197743771051894460}
+  _boundsCollider: {fileID: 3042407508066003891}
   _colliders:
-  - {fileID: 3042407508066003891}
+  - {fileID: 4197743771051894460}
 --- !u!1 &4190485163338060996
 GameObject:
   m_ObjectHideFlags: 0
@@ -247,12 +247,12 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.23064096, y: 0.023606872, z: 0.22904682}
-  m_Center: {x: -0.0006776171, y: 0.011828979, z: 0.0001197878}
+  m_Size: {x: 0.29, y: 0.028, z: 0.29}
+  m_Center: {x: -0.0006776171, y: 0.02, z: 0.0001197878}
 --- !u!1 &6715194352400771268
 GameObject:
   m_ObjectHideFlags: 0
@@ -300,9 +300,9 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.28358576, y: 0.03660353, z: 0.28056976}
-  m_Center: {x: 0.00025945617, y: 0.015492544, z: -0.000769997}
+  m_Size: {x: 0.2, y: 0.02, z: 0.2}
+  m_Center: {x: 0.0002594555, y: 0.02223389, z: -0.00076999556}

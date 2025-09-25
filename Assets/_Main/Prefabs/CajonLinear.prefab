@@ -12,10 +12,10 @@ GameObject:
   - component: {fileID: 2782976037561310746}
   - component: {fileID: 2351208730292446854}
   - component: {fileID: 6327059266394081996}
-  - component: {fileID: 5121862565312239727}
   - component: {fileID: 8066415898414581917}
   - component: {fileID: 8715014314383180233}
   - component: {fileID: 2848014830924570219}
+  - component: {fileID: 4569561207607993587}
   m_Layer: 0
   m_Name: CajonCocina
   m_TagString: Untagged
@@ -52,7 +52,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: 7358e191-33b7-43ca-b066-b2f00531ac66
-  instanceId: 0d3b5602-7e3a-48fb-80ab-a7b3a1eb844f
+  instanceId: e9b92e2b-cfba-4de1-9a85-00c8bdb7f1f9
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: 
@@ -111,27 +111,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &5121862565312239727
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 784338970363171660}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 1
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 6.5119276, y: 23.502968, z: 0.8926887}
-  m_Center: {x: 3.0982409, y: 0.15049952, z: 0.66776156}
 --- !u!54 &8066415898414581917
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -213,6 +192,27 @@ MonoBehaviour:
     MaxZ:
       Constrain: 0
       Value: 0
+--- !u!65 &4569561207607993587
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 784338970363171660}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.45056945, y: 0.17918208, z: 0.61033994}
+  m_Center: {x: 0, y: 0, z: -0.2825291}
 --- !u!1 &2192382297515639792
 GameObject:
   m_ObjectHideFlags: 0
@@ -294,7 +294,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: 3679347a-a243-4c24-b2fa-fe1826e91207
+  instanceId: 4332fec5-c507-4c5d-8381-78805b775c38
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8

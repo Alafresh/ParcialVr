@@ -30,7 +30,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4695456859551047440}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: 0.7071068, z: 0.7071068, w: 0}
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0.7071068, w: 0}
   m_LocalPosition: {x: 1.0400999, y: 0.003700018, z: 2.0014994}
   m_LocalScale: {x: 2.2000003, y: 2.2, z: 2.2}
   m_ConstrainProportionsScale: 1
@@ -52,7 +52,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: 7358e191-33b7-43ca-b066-b2f00531ac66
-  instanceId: 21117fa2-fb0e-4f2a-9221-3b1c2e4c4dc8
+  instanceId: d79df0d4-e515-41a7-ace5-5ba007f3e923
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: 
@@ -227,7 +227,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: 4e14e0ba-51f2-4a5c-a822-e304bf36d48c
-  instanceId: 2547af28-af50-42e6-9497-89e5e20ca077
+  instanceId: 2caad651-f526-4dd0-b67a-edb2cbecefc7
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: fb25cac7-8f37-455d-ac01-3fa41a1be37d
@@ -336,5 +336,5 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.011941317, y: 0.1, z: 0.0059889806}
-  m_Center: {x: 0.014130485, y: 0.03360577, z: 0.0016673902}
+  m_Size: {x: 0.0119413175, y: 0.1, z: 0.0069871307}
+  m_Center: {x: 0.014130485, y: 0.033605773, z: 0.0011683153}

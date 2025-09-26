@@ -78,7 +78,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: 4e14e0ba-51f2-4a5c-a822-e304bf36d48c
-  instanceId: dd492166-b5b3-4738-8126-1c6bb65e0f1b
+  instanceId: 85d65144-daea-4c7d-a15a-dd7f8e4f9241
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: fb25cac7-8f37-455d-ac01-3fa41a1be37d
@@ -156,8 +156,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.016603088, y: 0.1, z: 0.0071855695}
-  m_Center: {x: -0.0148457335, y: 0.03360577, z: 0.0027772586}
+  m_Size: {x: 0.016603086, y: 0.1, z: 0.008975845}
+  m_Center: {x: -0.014845739, y: 0.03360577, z: 0.0018821217}
 --- !u!1 &8406354885343805131
 GameObject:
   m_ObjectHideFlags: 0
@@ -188,9 +188,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8406354885343805131}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: 0.7071068, z: 0.7071068, w: 0}
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0.7071068, w: 0}
   m_LocalPosition: {x: 0.60360026, y: 0.0030999184, z: 1.9864993}
-  m_LocalScale: {x: 2.2000003, y: 2.2, z: 2.2}
+  m_LocalScale: {x: 2.2000005, y: 2.2, z: 2.2}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 2474048709045730299}
@@ -210,7 +210,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: 7358e191-33b7-43ca-b066-b2f00531ac66
-  instanceId: 0a452362-22b5-4433-b146-e9a7275f2647
+  instanceId: c1b84bb0-eca9-4dca-bd4e-13f5d79e4257
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: 

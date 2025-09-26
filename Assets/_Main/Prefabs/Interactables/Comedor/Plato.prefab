@@ -46,7 +46,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: 4e14e0ba-51f2-4a5c-a822-e304bf36d48c
-  instanceId: 10ea6e5d-ae0b-4edb-bba5-2a7ec0d84fae
+  instanceId: f12c957c-3450-4058-824c-ac819be1a339
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: fb25cac7-8f37-455d-ac01-3fa41a1be37d
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: 7358e191-33b7-43ca-b066-b2f00531ac66
-  instanceId: 31853b97-7d74-4d16-b85d-af094cfcde22
+  instanceId: f28eadf0-289a-4006-b9c0-73d0acf20d61
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: 
@@ -304,5 +304,5 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.2, y: 0.02, z: 0.2}
-  m_Center: {x: 0.0002594555, y: 0.02223389, z: -0.00076999556}
+  m_Size: {x: 0.19999999, y: 0.032216467, z: 0.19999999}
+  m_Center: {x: 0.0002594555, y: 0.016125625, z: -0.00076999556}
